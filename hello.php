@@ -1,7 +1,7 @@
 <?php
 
-$vName = $_GET("name");
+$vName = $_GET["name"];
 
-echo "hello~" + $vName;
+echo "hello~" . $vName;
 
 >
